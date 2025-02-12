@@ -75,7 +75,7 @@ As you cannot prevent code from breaking, you should at least get the tooling to
 -   **Be informed that the codebase is broken**: this is the role of tests combined with CI.
 -   **Be able to identify changes between versions, and potentially, get back in time to a previous codebase**: this is the role of version control.
 
-We will go deeper into testing and version control in [chapter 14](#build-yourself-safety-net).
+We will go deeper into testing and version control in [chapter 11](#build-yourself-safety-net).
 
 #### B. Small is beautiful {.unnumbered}
 
